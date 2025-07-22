@@ -8,7 +8,7 @@ This repository provides a robust, server-level paywall solution for websites ho
 - **Client-Proof:** Only those with access to the server's Apache configuration can disable or modify the paywall, ensuring compliance with payment or contractual terms.
 - **No Code Changes Required:** Works with any CMS or static site, as it operates outside the application layer.
 
-<img width="1170" height="2532" alt="IMG_7822_export" src="https://github.com/user-attachments/assets/be9aeb13-606c-4b73-a141-00642ceb0cc9" />
+<img width="1170" height="2532" alt="IMG_7822_export" size="20%" src="https://github.com/user-attachments/assets/be9aeb13-606c-4b73-a141-00642ceb0cc9" />
 
 ## How It Works
 
